@@ -3,18 +3,6 @@ require 'rss'
 require 'httparty'
 require 'feedjira'
 
-KEYWORDS = [
-  'ethereum',
-  'ether',
-  'cryptocurrency',
-  'cryptocurrencies',
-  'bitcoin', 
-  'litecoin',
-  'ico',
-  'coin',
-  'blockchain',
-  'segwit'
-]
 
 class HNCryptoFeed < Sinatra::Base 
 
