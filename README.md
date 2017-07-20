@@ -1,2 +1,4 @@
-# hncryptofeed
-Hacker News filter for cryptocurrencies news
+# Hacker News Crypto Feed
+Hacker News filter for cryptocurrencies.
+
+
